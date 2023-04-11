@@ -1,5 +1,5 @@
 # Android Kalkulator
 Dibuat untuk memenuhi tugas Aplikasi Komputasi Bergerak, dibuat oleh Nerisa Sampa Guita - 10120158 / IF-4
 
-# Screenshot
-https://user-images.githubusercontent.com/130494285/231254815-649d650c-8105-4d27-bbb4-eb0d44e887b5.png
+## Screenshot
+<img src="https://user-images.githubusercontent.com/130494256/231255418-27540b15-6972-436e-a904-c0b0e24142ad.png" width="200" height="400" />
